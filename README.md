@@ -1,6 +1,4 @@
 # Weather App on ECS using terraform
-
-## Weather app: 
 - React application that gets weather data from openweathermap . org 
 
 
